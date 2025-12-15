@@ -1,4 +1,4 @@
-Code-for-TIM
+CNGMM Algorithm Accepted by IEEE Transactions on Instrumentation and Measurement
 
 
 Title of the paper: "Linear and Widely Linear Recursive Maximum Complex-Domain Loglikelihood Adaptive Filtering in Intricate Measurement Environments".
